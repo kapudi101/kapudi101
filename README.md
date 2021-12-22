@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things test automation
 - 🌱 I’m currently learning Selenium
 - 💞️ I’m looking to collaborate on coding and more
-- 📫 You can reach me on my handle
+- 📫 You can reach me on my handle https://github.com/kapudi101
 
 <!---
 kapudi101/kapudi101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
